@@ -1,4 +1,4 @@
-8import React from "react";
+import React from "react";
 import { feedback } from "../constants";
 import styles from "../styles";
 import FeedbackCard from "./FeedbackCard";
